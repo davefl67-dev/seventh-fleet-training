@@ -126,6 +126,10 @@ Implementation is intended to be gradual:
 **Phase 3:** Introduce rating-specific A School tracks  
 **Phase 4:** Steady-state operation with periodic review and adjustment
 
+### Versioning Note
+
+Version numbers in this document reflect **changes in ideas or structure**, not minor wording edits. The version is updated only when the training framework itself changes in a way that affects how Seventh Fleet operates or trains. Editorial improvements, clarification, and tone adjustments do not trigger a version change.
+
 ## Closing
 
 This framework is not about lowering standards. It is about placing the right standards in the right environment.

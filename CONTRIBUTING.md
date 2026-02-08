@@ -66,3 +66,14 @@ Suggested branch naming:
 
 Branches should exist only as long as needed for review and discussion.  
 If a change improves clarity without altering intent, simplicity is preferred over process.
+
+## Discussing Changes
+
+When proposing or reviewing changes:
+
+- Focus discussion on intent and impact, not wording preferences
+- Avoid debating realism for its own sake
+- Consider whether a change improves engagement, clarity, or sustainability
+- Prefer small, reversible changes over large rewrites
+
+If a change makes training feel more like obligation than roleplay, it should be reconsidered.
