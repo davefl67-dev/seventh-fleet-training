@@ -1,4 +1,5 @@
 # Seventh Fleet Training Framework
+*No llamas were harmed in the creation of this repo*
 
 ## Executive Summary
 
