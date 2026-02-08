@@ -37,3 +37,16 @@ This repository contains a proposed and evolving training framework for a Second
 - No punitive or disciplinary framing
 
 When in doubt, err on the side of simplicity and fun.
+
+## Working with AI Tools (Codex, Copilot, etc.)
+
+This repository supports AI-assisted editing, particularly through tools such as Codex in VS Code.
+
+When using AI tools:
+- Treat the AI as a drafting or editing assistant, not a policy authority
+- Keep changes incremental and reviewable
+- Prefer improving clarity over expanding scope
+- Do not allow AI tools to introduce enforcement language, requirements, or workload
+
+AI tools operating in this repository are guided by `AGENTS.md`.  
+If behavior or output feels misaligned with the project’s intent, adjust prompts or intervene manually.

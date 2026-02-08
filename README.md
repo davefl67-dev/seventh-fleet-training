@@ -1,7 +1,15 @@
 # Seventh Fleet Training Framework
-![Status: Proposed / Living Document](https://img.shields.io/badge/status-proposed%20%2F%20living-blue)
 
-> This is an evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions. *No llamas were harmed in the creation of this repo*
+
+> **Status:** Proposed/Living Document
+>
+> This is an evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions. 
+>
+> **Contributing & Editing Guidance** 
+>
+> This repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to help preserve intent, tone, and scope as this document evolves.
+>
+>  *No llamas were harmed in the creation of this repo*
 
 ## Executive Summary
 
