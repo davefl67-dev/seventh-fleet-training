@@ -6,6 +6,20 @@ This document proposes a reframed Seventh Fleet training model designed specific
 
 > This is a proposed and evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
 
+## What This Framework Is / What It Is Not
+
+### This Is
+
+- A roleplay-first training model built to support member enjoyment and participation
+- A practical structure for improving consistency without overloading members or staff
+- A fun-first framework that protects in-world time for interaction, story, and community
+
+### This Is Not
+
+- A real-world Navy training simulation or substitute for military instruction
+- A requirement to recreate real-life pipelines, workload, or institutional rigor
+- A system intended to crowd out social roleplay with administrative overhead
+
 ---
 
 ## Purpose
