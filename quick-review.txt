@@ -1,45 +1,58 @@
-SEVENTH FLEET TRAINING – QUICK OVERVIEW
+SEVENTH FLEET TRAINING FRAMEWORK - QUICK REVIEW
 
-Purpose:
-This framework updates Seventh Fleet training for Second Life roleplay while keeping standards clear, consistent, and manageable.
+Status:
+Proposed living framework for Second Life roleplay training.
 
-Core Idea:
-Separate book learning from in-world roleplay execution.
+Executive Intent:
+Keep training credible, consistent, and sustainable without turning roleplay into classroom work.
 
-Foundational knowledge is completed off-world in an LMS. In-world time is used for short, scenario-based sessions focused on interaction and decisions.
+What This Framework Is:
+- Roleplay-first training support model
+- Practical structure for consistent baseline knowledge
+- Fun-first approach that protects in-world interaction time
 
-Why This Is Needed:
-Members have limited time, and long lecture sessions reduce participation. At the same time, no structure creates uneven performance. This model keeps training useful without turning roleplay into a classroom.
+What This Framework Is Not:
+- Real-world military training simulation
+- Heavy pipeline, bureaucracy, or workload replication
+- A system that blocks social roleplay participation
 
-How It Works:
-1. LMS (off-world):
+Core Model (Split Training):
+1. Off-world LMS for foundational knowledge
+2. In-world sessions for scenario application and interaction
+
+LMS Design:
 - Short self-paced modules (about 5-10 minutes)
-- Covers terminology, rank structure, rating fundamentals, and RP expectations
 - Open-book, low-stress quizzes with retakes
-- Used to unlock specific drills or qualifications
-- Does not block general roleplay or social participation
+- Covers terminology, rank structure, rating basics, safety, and RP expectations
+- Unlocks specific drills/qualifications (soft gating)
+- Never blocks general roleplay or social participation
 
-2. In-World Training:
+In-World Training Design:
 - 20-45 minute sessions
 - Scenario-driven and story-focused
-- Minimal lecturing
-- Focus on applying knowledge through interaction and choices
-- Built to be repeatable and optional
+- Minimal lecture time
+- Focus on decisions, interaction, and practical application
+- Repeatable and optional where appropriate
 
-A Schools:
-Rating A Schools are kept simple and RP-appropriate: a small set of LMS modules plus a limited number of short practical scenarios. Goal is confidence and consistency, not a long pipeline.
+Rating A Schools:
+- Small number of LMS modules
+- Limited short in-world practical scenarios
+- Goal: confidence and consistency, not grind
 
-Key Principles:
-- Protect roleplay time
-- Keep training short and usable
-- Use soft gating for specific activities
-- Support instructors by reducing burnout
-- Keep training fun, practical, and sustainable
+Expected Benefits:
+- Shorter, better in-world sessions
+- Reduced instructor burnout
+- Faster onboarding
+- Better baseline knowledge across the fleet
+- Improved long-term retention
 
-Outcome:
-Faster onboarding, better baseline knowledge, stronger in-world sessions, and better long-term retention across the fleet.
+Rollout (Incremental):
+Phase 1: Define requirements and pilot LMS modules
+Phase 2: Tie LMS completion to selected in-world activities
+Phase 3: Introduce rating-specific A School tracks
+Phase 4: Steady-state operation with periodic review
 
-This is not about lowering standards. It is about putting the right training in the right place.
+Closing:
+This is not lowering standards. It places the right standards in the right environment so training supports roleplay.
 
-Submitted by:
 Captain Dave Gaffer

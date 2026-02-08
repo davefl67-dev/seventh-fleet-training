@@ -1,5 +1,8 @@
 # Seventh Fleet Training Framework
-
+<!--
+Authoritative source for Seventh Fleet training framework.
+Plain-text SL notecard version lives in quick-review.txt.
+-->
 
 > **Status:** Proposed/Living Document
 >
