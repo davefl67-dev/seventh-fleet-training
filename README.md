@@ -1,15 +1,16 @@
 # Naval Education and Training Command
 
-<img src="img/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="250">
+<!-- <img src="img/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="250"> -->
 
 - **Project Status: Proposed**
-NETC is the authoritative source for the Seventh Fleet training framework. A plain-text version suitable for Second Life is available in `quick-review.txt`.
+NETC is the authoritative source for the Seventh Fleet training framework. A plain-text version suitable for Second Life® is available in [`quick-review.txt`](quick-review.txt).
 
 - **A Living Document**
-This is an evolving training framework for Seventh Fleet, a roleplay community in Second Life. Details may change based on leadership guidance, member feedback, and operational needs. It is a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
+This is an evolving training framework for Seventh Fleet, a roleplay community in Second Life®. Details may change based on leadership guidance, member feedback, and operational needs. It is a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
 
 - **Contributing and Editing Guidance**
-This repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
+This repository includes [`CONTRIBUTING.md`](CONTRIBUTING.md) (for human contributors) and [`AGENTS.md`](AGENTS.md)
+ (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
 
 - *No llamas were harmed in the creation of this repo*
 
@@ -17,7 +18,7 @@ This repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.
 
 ## The Elevator Pitch
 
-This framework updates Seventh Fleet training for a Second Life roleplay environment.
+This framework updates Seventh Fleet training for a Second Life® roleplay environment.
 
 Foundational knowledge is handled off-world through short LMS modules. In-world time is reserved for scenario-based training focused on interaction, decision-making, and roleplay value. The goal is to keep standards clear and credible without overloading members or instructors.
 
@@ -42,6 +43,29 @@ Seventh Fleet operates in a leisure roleplay environment where member time and a
 - Establish a consistent baseline of knowledge
 - Support growth without unnecessary bureaucracy
 - Keep participation fun and sustainable
+
+## Initial Orientation: "Boot Camp"
+
+Seventh Fleet’s initial "Boot Camp" concept is intended as a **short orientation experience**, not a simulation of real-world recruit training. Its purpose is to provide solid onboarding. It will introduce new members to the Fleet’s structure, expectations, and roleplay environment while setting a consistent baseline for participation.
+
+This orientation would focus on:
+- Basic naval terminology and ranks
+- Fleet organization and roleplay norms
+- Grooming and uniform standards
+- Nany customs & courtesies
+- Backstory and lore of the Indochina area
+- How training, qualifications, and advancement work in Seventh Fleet
+- Expectations for conduct, communication, and participation
+
+Where possible, introductory material would be handled off-world through brief, web-based modules. A custom Learning Management System (LMS) modules will allow recruits' in-world time to remain social, welcoming, and focused on roleplay rather than instruction.
+
+In-world orientation sessions would be:
+- Short in duration
+- Light in tone
+- Designed to help new members feel comfortable and included
+- Focused on interaction rather than evaluation
+
+The goal of Boot Camp is **confidence and familiarity**, not screening or stress. Completion would signal readiness to participate meaningfully in Fleet roleplay, not mastery of skills or procedures.
 
 ## Core Concept: Split Training Model
 
