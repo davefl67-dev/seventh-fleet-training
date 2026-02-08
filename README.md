@@ -133,3 +133,9 @@ This framework is not about lowering standards. It is about placing the right st
 By moving book learning off-world and protecting in-world time for interaction and roleplay, Seventh Fleet can maintain professionalism while ensuring training remains enjoyable, inclusive, and sustainable.
 
 — *Captain Dave Gaffer*
+
+---
+
+**Document Status:** Proposed / Living  
+**Current Version:** v0.1 (Initial Framework)  
+**Last Updated:** 2026-02-08

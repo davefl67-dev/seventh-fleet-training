@@ -50,3 +50,19 @@ When using AI tools:
 
 AI tools operating in this repository are guided by `AGENTS.md`.  
 If behavior or output feels misaligned with the project’s intent, adjust prompts or intervene manually.
+
+## Branching and Changes
+
+This repository uses a simple branching model.
+
+- `main` represents the current working proposal
+- Small edits and clarifications may be made directly to `main`
+- Larger or more experimental changes should use a short-lived branch
+
+Suggested branch naming:
+- `clarify-<topic>`
+- `revise-<section>`
+- `experiment-<idea>`
+
+Branches should exist only as long as needed for review and discussion.  
+If a change improves clarity without altering intent, simplicity is preferred over process.
