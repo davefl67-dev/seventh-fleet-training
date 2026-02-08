@@ -1,27 +1,23 @@
 # Seventh Fleet Training Framework
-*No llamas were harmed in the creation of this repo*
+![Status: Proposed / Living Document](https://img.shields.io/badge/status-proposed%20%2F%20living-blue)
+
+> This is an evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions. *No llamas were harmed in the creation of this repo*
 
 ## Executive Summary
 
 This document proposes a reframed Seventh Fleet training model designed specifically for a Second Life roleplay environment. The model separates foundational, knowledge-based learning from in-world roleplay training by using an off-world Learning Management System (LMS) for short, self-paced coursework, while reserving in-world sessions for interactive, scenario-driven roleplay. The intent is to preserve credibility and consistency without overburdening members, improve retention, reduce instructor fatigue, and ensure that training enhances rather than competes with the enjoyment of roleplay.
 
-> This is a proposed and evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
-
-## What This Framework Is / What It Is Not
-
-### This Is
+### What This Framework Is
 
 - A roleplay-first training model built to support member enjoyment and participation
 - A practical structure for improving consistency without overloading members or staff
 - A fun-first framework that protects in-world time for interaction, story, and community
 
-### This Is Not
+### What This Framework Is Not
 
 - A real-world Navy training simulation or substitute for military instruction
 - A requirement to recreate real-life pipelines, workload, or institutional rigor
 - A system intended to crowd out social roleplay with administrative overhead
-
----
 
 ## Purpose
 
@@ -33,24 +29,20 @@ Seventh Fleet operates in a roleplay environment where member time, attention, a
 - Support growth without excessive bureaucracy
 - Keep participation fun and sustainable
 
----
-
 ## Core Concept: Split Training Model
 
 Training is divided into two complementary layers:
 
-1. **Off-world learning (LMS)** for foundational knowledge
+1. **Off-world learning management system (LMS)** for foundational knowledge
 2. **In-world training** for application, interaction, and roleplay
 
 Each layer serves a distinct purpose and is optimized for its environment.
-
----
 
 ## The Learning Management System (LMS)
 
 A Learning Management System (LMS) is a web-based platform used to deliver and manage training content asynchronously. In practical terms, it is an online classroom where members can complete short readings and simple quizzes on their own schedule.
 
-Typical LMS platforms include Moodle, Canvas, Blackboard, and similar systems. At this time, no final LMS software suite has been selected. Requirements and scope will be defined first, followed by evaluation of available platforms.
+Typical LMS platforms include [Moodle](https://moodle.org/), [Canvas](https://www.instructure.com/canvas), [Blackboard](https://www.anthology.com/products/teaching-and-learning/learning-effectiveness/blackboard), and similar systems. At this time, no final LMS software suite has been selected. Requirements and scope will be defined first, followed by evaluation of available platforms.
 
 ### LMS Design Principles
 
@@ -72,8 +64,6 @@ The LMS is used for:
 
 The LMS is **not** intended to replace roleplay or simulate real-world academic rigor.
 
----
-
 ## In-World Training Sessions
 
 In-world training exists to apply knowledge, build character interactions, and create engaging scenarios.
@@ -88,8 +78,6 @@ In-world training exists to apply knowledge, build character interactions, and c
 
 In-world training should feel like an episode or vignette rather than a classroom session.
 
----
-
 ## Gating Philosophy
 
 This framework uses **soft gating**, not hard exclusion.
@@ -99,8 +87,6 @@ Examples:
 - Completing prerequisites allows assignment to certain billets
 
 Members are never blocked from general roleplay or social participation due to incomplete coursework.
-
----
 
 ## Rating "A" Schools
 
@@ -114,8 +100,6 @@ Each rating A School consists of:
 
 The goal is confidence and consistency, not grind or bureaucracy.
 
----
-
 ## Benefits
 
 - Shorter and more engaging in-world sessions
@@ -124,8 +108,6 @@ The goal is confidence and consistency, not grind or bureaucracy.
 - Faster onboarding of new members
 - Improved long-term retention
 - Training that supports roleplay rather than replacing it
-
----
 
 ## Incremental Rollout
 
@@ -136,12 +118,10 @@ Implementation is intended to be gradual:
 **Phase 3:** Introduce rating-specific A School tracks  
 **Phase 4:** Steady-state operation with periodic review and adjustment
 
----
-
 ## Closing
 
 This framework is not about lowering standards. It is about placing the right standards in the right environment.
 
 By moving book learning off-world and protecting in-world time for interaction and roleplay, Seventh Fleet can maintain professionalism while ensuring training remains enjoyable, inclusive, and sustainable.
 
-— Captain Dave Gaffer
+— *Captain Dave Gaffer*
