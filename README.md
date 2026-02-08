@@ -1,63 +1,66 @@
-# Seventh Fleet Training Framework
-<!--
-Authoritative source for Seventh Fleet training framework.
-Plain-text SL notecard version lives in quick-review.txt.
--->
+# Naval Education and Training Command
 
-> **Status:** Proposed/Living Document
->
-> This is an evolving training framework. Specific details may change based on leadership guidance, member feedback, and operational needs. It is intended as a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions. 
->
-> **Contributing & Editing Guidance** 
->
-> This repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to help preserve intent, tone, and scope as this document evolves.
->
->  *No llamas were harmed in the creation of this repo*
+<img src="img/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="250">
 
-## Executive Summary
+- **Project Status: Proposed**
+NETC is the authoritative source for the Seventh Fleet training framework. A plain-text version suitable for Second Life is available in `quick-review.txt`.
 
-This document proposes a reframed Seventh Fleet training model designed specifically for a Second Life roleplay environment. The model separates foundational, knowledge-based learning from in-world roleplay training by using an off-world Learning Management System (LMS) for short, self-paced coursework, while reserving in-world sessions for interactive, scenario-driven roleplay. The intent is to preserve credibility and consistency without overburdening members, improve retention, reduce instructor fatigue, and ensure that training enhances rather than competes with the enjoyment of roleplay.
+- **A Living Document**
+This is an evolving training framework for Seventh Fleet, a roleplay community in Second Life. Details may change based on leadership guidance, member feedback, and operational needs. It is a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
+
+- **Contributing and Editing Guidance**
+This repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
+
+- *No llamas were harmed in the creation of this repo*
+
+<div style="clear: both;"></div>
+
+## The Elevator Pitch
+
+This framework updates Seventh Fleet training for a Second Life roleplay environment.
+
+Foundational knowledge is handled off-world through short LMS modules. In-world time is reserved for scenario-based training focused on interaction, decision-making, and roleplay value. The goal is to keep standards clear and credible without overloading members or instructors.
 
 ### What This Framework Is
 
-- A roleplay-first training model built to support member enjoyment and participation
-- A practical structure for improving consistency without overloading members or staff
-- A fun-first framework that protects in-world time for interaction, story, and community
+- A roleplay-first training model that supports participation and retention
+- A practical structure for consistent baseline knowledge
+- A fun-first framework that protects in-world time for story and community
 
 ### What This Framework Is Not
 
-- A real-world Navy training simulation or substitute for military instruction
-- A requirement to recreate real-life pipelines, workload, or institutional rigor
-- A system intended to crowd out social roleplay with administrative overhead
+- A real-world Navy training simulation
+- A requirement to replicate real-world pipelines, workload, or institutional rigor
+- A system that crowds out social roleplay with admin overhead
 
 ## Purpose
 
-Seventh Fleet operates in a roleplay environment where member time, attention, and availability are limited. Training must therefore balance authenticity with accessibility. This framework is designed to:
+Seventh Fleet operates in a leisure roleplay environment where member time and attention are limited. Training must balance authenticity with accessibility. This framework is designed to:
 
 - Protect in-world roleplay time
 - Reduce lecture-heavy sessions
 - Establish a consistent baseline of knowledge
-- Support growth without excessive bureaucracy
+- Support growth without unnecessary bureaucracy
 - Keep participation fun and sustainable
 
 ## Core Concept: Split Training Model
 
 Training is divided into two complementary layers:
 
-1. **Off-world learning management system (LMS)** for foundational knowledge
+1. **Off-world Learning Management System (LMS)** for foundational knowledge
 2. **In-world training** for application, interaction, and roleplay
 
-Each layer serves a distinct purpose and is optimized for its environment.
+Each layer serves a distinct purpose and is built for its environment.
 
 ## The Learning Management System (LMS)
 
-A Learning Management System (LMS) is a web-based platform used to deliver and manage training content asynchronously. In practical terms, it is an online classroom where members can complete short readings and simple quizzes on their own schedule.
+A Learning Management System (LMS) is a web-based platform used to deliver and manage asynchronous training content. In practical terms, it is an online classroom where members can complete short readings and simple quizzes on their own schedule.
 
-Typical LMS platforms include [Moodle](https://moodle.org/), [Canvas](https://www.instructure.com/canvas), [Blackboard](https://www.anthology.com/products/teaching-and-learning/learning-effectiveness/blackboard), and similar systems. At this time, no final LMS software suite has been selected. Requirements and scope will be defined first, followed by evaluation of available platforms.
+Typical LMS platforms include [Moodle](https://moodle.org/), [Canvas](https://www.instructure.com/canvas), [Blackboard](https://www.anthology.com/products/teaching-and-learning/learning-effectiveness/blackboard), and similar systems. No final LMS has been selected. Requirements and scope will be defined first, then platforms will be evaluated.
 
 ### LMS Design Principles
 
-- Short, self-paced modules (5–10 minutes)
+- Short, self-paced modules (5-10 minutes)
 - Open-book, low-stress quizzes
 - Retakes allowed
 - Designed to unlock participation, not gatekeep members
@@ -77,17 +80,17 @@ The LMS is **not** intended to replace roleplay or simulate real-world academic 
 
 ## In-World Training Sessions
 
-In-world training exists to apply knowledge, build character interactions, and create engaging scenarios.
+In-world training exists to apply knowledge, build character interaction, and create engaging scenarios.
 
 ### In-World Design Principles
 
-- 20–45 minutes maximum
+- 20-45 minutes maximum
 - Scenario-driven and story-focused
 - Minimal lecturing
 - Emphasis on interaction and decision-making
-- Designed to be repeatable and optional
+- Repeatable and optional where practical
 
-In-world training should feel like an episode or vignette rather than a classroom session.
+In-world training should feel like an episode or vignette, not a classroom block.
 
 ## Gating Philosophy
 
@@ -101,19 +104,50 @@ Members are never blocked from general roleplay or social participation due to i
 
 ## Rating "A" Schools
 
-This framework allows for simplified, RP-appropriate A Schools for ratings.
+This framework supports simplified, RP-appropriate "A" Schools by rating.
 
-Each rating A School consists of:
+Each rating "A" School consists of:
 
 - A small number of LMS knowledge modules
 - A limited set of short in-world practical scenarios
 - Clear expectations without long pipelines
 
-The goal is confidence and consistency, not grind or bureaucracy.
+The goal is confidence and consistency, not grind.
+
+## Future Considerations: "C" Schools
+
+As Seventh Fleet evolves, optional, RP-appropriate "C" Schools may be introduced to support advanced skills, billet preparation, or specialization after initial rating qualification.
+
+In real-world Navy use, "C" Schools are specialized training tied to specific systems or duties. In Seventh Fleet, they would function as **short enrichment tracks or scenario unlocks**, not long pipelines or mandatory progression.
+
+Potential focus areas include:
+
+- **Leadership and small-unit supervision:** Communication, decision-making, and team leadership in scenarios
+- **Watchstanding and operations:** Terminology, situational awareness, and confidence in watch roles
+- **Technical or systems familiarization:** Flavor training for engineering, communications, sensors, or shipboard systems
+- **Instructor and training cadre development:** Facilitation, scenario design, and inclusive event execution
+- **Platform or community orientation:** Orientation tied to specific ship types, aviation communities, or operational themes
+
+All "C" School concepts are optional and should be introduced only where there is clear member interest and roleplay value.
+
+## Future Considerations: Officer Education
+
+Optional, RP-appropriate officer education tracks may be developed over time to mirror real-world Navy concepts without adopting real-world workload.
+
+If implemented, these should remain **lightweight orientation or enrichment paths**, not mandatory pipelines.
+
+Potential concepts include:
+
+- **Officer Candidate School (OCS):** A longer-form RP accession path focused on leadership, naval culture, and command fundamentals
+- **Officer Development School (ODS):** A short orientation track for staff officers or specialists
+- **Naval Postgraduate School (NPS):** A thematic framework for advanced character development areas (strategy, technology, logistics, leadership)
+- **Naval War College (NWC):** A senior-level strategy and command-perspective concept for experienced officers
+
+These are long-term options, not commitments. Any adoption should be incremental, optional, and guided by leadership direction and member interest.
 
 ## Benefits
 
-- Shorter and more engaging in-world sessions
+- Shorter, more engaging in-world sessions
 - Reduced instructor burnout
 - Consistent baseline knowledge across the fleet
 - Faster onboarding of new members
@@ -126,20 +160,22 @@ Implementation is intended to be gradual:
 
 **Phase 1:** Define requirements and pilot LMS modules  
 **Phase 2:** Tie LMS completion to selected in-world activities  
-**Phase 3:** Introduce rating-specific A School tracks  
-**Phase 4:** Steady-state operation with periodic review and adjustment
+**Phase 3:** Introduce rating-specific "A" School tracks  
+**Phase 4:** Introduce optional "C" School tracks  
+**Phase 5:** Introduce optional officer education tracks  
+**Phase 6:** Steady-state operation with periodic review and adjustment
 
 ### Versioning Note
 
-Version numbers in this document reflect **changes in ideas or structure**, not minor wording edits. The version is updated only when the training framework itself changes in a way that affects how Seventh Fleet operates or trains. Editorial improvements, clarification, and tone adjustments do not trigger a version change.
+Version numbers in this document reflect **changes in ideas or structure**, not minor wording edits. The version is updated only when the framework changes in a way that affects how Seventh Fleet operates or trains. Editorial clarification and tone adjustments do not trigger a version change.
 
 ## Closing
 
-This framework is not about lowering standards. It is about placing the right standards in the right environment.
+This framework is not about lowering standards. It is about putting the right standards in the right environment.
 
-By moving book learning off-world and protecting in-world time for interaction and roleplay, Seventh Fleet can maintain professionalism while ensuring training remains enjoyable, inclusive, and sustainable.
+By moving book learning off-world and preserving in-world time for interaction and roleplay, Seventh Fleet can maintain credibility while keeping training enjoyable, inclusive, and sustainable.
 
-— *Captain Dave Gaffer*
+- *Captain Dave Gaffer*
 
 ---
 

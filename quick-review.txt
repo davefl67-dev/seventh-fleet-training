@@ -1,3 +1,4 @@
+NAVAL EDUCATION AND TRAINING COMMAND
 SEVENTH FLEET TRAINING FRAMEWORK - QUICK REVIEW
 
 Status:
@@ -32,12 +33,17 @@ In-World Training Design:
 - Scenario-driven and story-focused
 - Minimal lecture time
 - Focus on decisions, interaction, and practical application
-- Repeatable and optional where appropriate
+- Repeatable and optional where practical
 
-Rating A Schools:
+Rating "A" Schools:
 - Small number of LMS modules
 - Limited short in-world practical scenarios
 - Goal: confidence and consistency, not grind
+
+Future Optional Tracks:
+- "C" Schools: short enrichment or scenario unlocks for advanced RP specialization
+- Officer Education: lightweight orientation/enrichment tracks (OCS, ODS, NPS, NWC concepts)
+- All optional and driven by member interest and roleplay value
 
 Expected Benefits:
 - Shorter, better in-world sessions
@@ -49,10 +55,12 @@ Expected Benefits:
 Rollout (Incremental):
 Phase 1: Define requirements and pilot LMS modules
 Phase 2: Tie LMS completion to selected in-world activities
-Phase 3: Introduce rating-specific A School tracks
-Phase 4: Steady-state operation with periodic review
+Phase 3: Introduce rating-specific "A" School tracks
+Phase 4: Introduce optional "C" School tracks
+Phase 5: Introduce optional officer education tracks
+Phase 6: Steady-state operation with periodic review and adjustment
 
 Closing:
-This is not lowering standards. It places the right standards in the right environment so training supports roleplay.
+This is not lowering standards. It puts the right standards in the right environment so training supports roleplay.
 
 Captain Dave Gaffer
