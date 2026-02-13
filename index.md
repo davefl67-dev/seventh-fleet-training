@@ -1,18 +1,12 @@
 # Naval Education and Training Command
 
-<!-- <img src="img/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="250"> -->
+<img src="assets/images/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="150">
 
-- **Project Status: Proposed**
-NETC is the authoritative source for the Seventh Fleet training framework. A plain-text version suitable for Second Life® is available in [`quick-review.txt`](quick-review.txt).
+NETC is the authoritative source for the Seventh Fleet training framework. A text-only overview of this project is available in `quick-review.txt`.
 
-- **A Living Document**
 This is an evolving training framework for Seventh Fleet, a roleplay community in Second Life®. Details may change based on leadership guidance, member feedback, and operational needs. It is a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
 
-- **Contributing and Editing Guidance**
-This repository includes [`CONTRIBUTING.md`](CONTRIBUTING.md) (for human contributors) and [`AGENTS.md`](AGENTS.md)
- (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
-
-- *No llamas were harmed in the creation of this repo*
+The repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
 
 <div style="clear: both;"></div>
 
@@ -52,12 +46,12 @@ This orientation would focus on:
 - Basic naval terminology and ranks
 - Fleet organization and roleplay norms
 - Grooming and uniform standards
-- Nany customs & courtesies
+- Navy customs and courtesies
 - Backstory and lore of the Indochina area
 - How training, qualifications, and advancement work in Seventh Fleet
 - Expectations for conduct, communication, and participation
 
-Where possible, introductory material would be handled off-world through brief, web-based modules. A custom Learning Management System (LMS) modules will allow recruits' in-world time to remain social, welcoming, and focused on roleplay rather than instruction.
+Where possible, introductory material would be handled off-world through brief, web-based modules. Custom Learning Management System (LMS) modules will allow recruits' in-world time to remain social, welcoming, and focused on roleplay rather than instruction.
 
 In-world orientation sessions would be:
 - Short in duration
@@ -178,20 +172,47 @@ These are long-term options, not commitments. Any adoption should be incremental
 - Improved long-term retention
 - Training that supports roleplay rather than replacing it
 
+## Anticipated Concerns and Responses
+
+- **Isn't this making training too casual?** No. Standards remain where they matter. This framework keeps structure and expectations while removing friction that does not translate well to a Second Life roleplay environment.
+- **Will members actually complete LMS coursework?** Short, self-paced modules are easier to complete than long in-world lectures. LMS completion unlocks participation in activities members already want to attend, creating incentive without punishment.
+- **Does this reduce realism?** It reduces burden, not realism. Terminology, structure, and scenario design stay authentic, while timelines and workload are scaled for roleplay.
+- **Is this replacing in-world training?** No. It protects in-world training by moving book learning off-world. In-world sessions stay focused on interaction, decision-making, and story.
+- **Is this adding administrative overhead?** The LMS reduces repetitive instruction and helps prevent instructor burnout by standardizing baseline knowledge. Administrative effort shifts from repeated lectures to facilitation.
+
 ## Incremental Rollout
 
-Implementation is intended to be gradual:
+Implementation is intentionally gradual so we can validate workload, member experience, and instructor capacity before expanding.
 
-**Phase 1:** Define requirements and pilot LMS modules  
-**Phase 2:** Tie LMS completion to selected in-world activities  
-**Phase 3:** Introduce rating-specific "A" School tracks  
-**Phase 4:** Introduce optional "C" School tracks  
-**Phase 5:** Introduce optional officer education tracks  
-**Phase 6:** Steady-state operation with periodic review and adjustment
+### Phase 1 - Foundation
+- Define LMS requirements and scope
+- Pilot a small set of general knowledge modules
+- Keep existing in-world training unchanged
+
+### Phase 2 - Integration
+- Tie LMS completion to selected in-world activities
+- Apply soft gating for qualifications or billets
+- Replace lecture-heavy sessions with short scenarios where practical
+
+### Phase 3 - Expansion
+- Introduce rating-specific "A" School tracks
+- Expand LMS content only where roleplay value is clear
+- Provide practical guidance for instructors
+
+### Phase 4 - Steady State
+- Keep baseline knowledge in the LMS
+- Keep in-world training short and social
+- Review and adjust periodically based on feedback
+
+Optional future tracks, including "C" Schools and officer education concepts, can be added incrementally as member interest, roleplay value, and instructor capacity support them.
 
 ### Versioning Note
 
 Version numbers in this document reflect **changes in ideas or structure**, not minor wording edits. The version is updated only when the framework changes in a way that affects how Seventh Fleet operates or trains. Editorial clarification and tone adjustments do not trigger a version change.
+
+## The NETC Logo
+
+The logo was generated by AI. The parameters used were to be simple, professional, and reflective of the Seventh Fleet's heritage and operational context. The result is a logo that should be recognizable to the Seventh Fleet community and have the look and feel of the era in which the Seventh Fleet operates.
 
 ## Closing
 
@@ -199,10 +220,11 @@ This framework is not about lowering standards. It is about putting the right st
 
 By moving book learning off-world and preserving in-world time for interaction and roleplay, Seventh Fleet can maintain credibility while keeping training enjoyable, inclusive, and sustainable.
 
-- *Captain Dave Gaffer*
-
 ---
 
-**Document Status:** Proposed / Living  
-**Current Version:** v0.1 (Initial Framework)  
-**Last Updated:** 2026-02-08
+**Document Status:** Proposed
+**Author:** Captain Dave Gaffer
+**Current Version:** v0.1 (Initial Framework)
+**Last Updated:** 2026-02-13
+
+![Status: Proposed](https://img.shields.io/badge/status-proposed-blue)

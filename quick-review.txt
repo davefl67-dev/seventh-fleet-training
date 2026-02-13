@@ -4,25 +4,34 @@ SEVENTH FLEET TRAINING FRAMEWORK - QUICK REVIEW
 Status:
 Proposed living framework for Second Life roleplay training.
 
-Executive Intent:
+Full Framework Site:
+https://7flt.davefl67.dev
+
+Purpose:
 Keep training credible, consistent, and sustainable without turning roleplay into classroom work.
+Protect in-world roleplay time while keeping standards clear and practical.
 
 What This Framework Is:
-- Roleplay-first training support model
-- Practical structure for consistent baseline knowledge
-- Fun-first approach that protects in-world interaction time
+- Roleplay-first training model
+- Practical structure for baseline knowledge
+- Fun-first approach that supports retention and participation
 
 What This Framework Is Not:
-- Real-world military training simulation
-- Heavy pipeline, bureaucracy, or workload replication
+- Real-world Navy training simulation
+- Heavy pipeline or administrative burden
 - A system that blocks social roleplay participation
+
+Initial Orientation ("Boot Camp"):
+- Short orientation, not real-world recruit training simulation
+- Focus on terminology, ranks, customs/courtesies, roleplay norms, and expectations
+- Goal is confidence and familiarity, not stress or screening
 
 Core Model (Split Training):
 1. Off-world LMS for foundational knowledge
 2. In-world sessions for scenario application and interaction
 
 LMS Design:
-- Short self-paced modules (about 5-10 minutes)
+- Short self-paced modules (5-10 minutes)
 - Open-book, low-stress quizzes with retakes
 - Covers terminology, rank structure, rating basics, safety, and RP expectations
 - Unlocks specific drills/qualifications (soft gating)
@@ -53,12 +62,10 @@ Expected Benefits:
 - Improved long-term retention
 
 Rollout (Incremental):
-Phase 1: Define requirements and pilot LMS modules
-Phase 2: Tie LMS completion to selected in-world activities
-Phase 3: Introduce rating-specific "A" School tracks
-Phase 4: Introduce optional "C" School tracks
-Phase 5: Introduce optional officer education tracks
-Phase 6: Steady-state operation with periodic review and adjustment
+Phase 1 - Foundation: define LMS requirements, pilot modules, no immediate change to current in-world training
+Phase 2 - Integration: tie LMS completion to selected activities and convert lecture-heavy sessions into short scenarios
+Phase 3 - Expansion: introduce rating-specific "A" Schools and expand LMS only where roleplay value is clear
+Phase 4 - Steady State: maintain LMS baseline knowledge, keep in-world sessions short/social, review and adjust over time
 
 Closing:
 This is not lowering standards. It puts the right standards in the right environment so training supports roleplay.
