@@ -1,6 +1,6 @@
 # Naval Education and Training Command 
 
-<img src="assets/images/netc350.png" style="margin: 0 0 1em 1em;" width="150">
+<img src="{{ '/assets/images/netc350.png' | relative_url }}" style="margin: 0 0 1em 1em;" width="150">
 
 A proposal for a roleplay-first training framework for Seventh Fleet. The basics are described below. Active development will begin soon. Evolution depends on leadership guidance, member feedback, and operational needs.
 

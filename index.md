@@ -1,6 +1,6 @@
 # Naval Education and Training Command
 
-<img src="assets/images/netc350.png" style="float: right; margin: 0 0 1em 1em;" width="150">
+<img src="{{ '/assets/images/netc350.png' | relative_url }}" style="float: right; margin: 0 0 1em 1em;" width="150">
 
 NETC is the authoritative source for the Seventh Fleet training framework. A text-only overview of this project is available in `quick-review.txt`.
 
