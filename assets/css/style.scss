@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 /* Whitepaper-style refinements for jekyll-theme-minimal */
 :root {
@@ -71,4 +68,20 @@ a:hover,
 a:focus {
     color: var(--navy-accent-hover);
     text-decoration-color: rgba(23, 48, 79, 0.6);
+}
+
+/* Convert jekyll-theme-minimal sidebar into a top header block */
+header {
+    float: none;
+    position: static;
+    width: auto;
+    max-width: 1020px;
+    margin: 0 auto 1.5rem auto;
+    padding: 0;
+}
+
+section {
+    float: none;
+    width: auto;
+    margin: 0 auto;
 }
