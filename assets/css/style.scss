@@ -1,31 +1,44 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
-
-/* Whitepaper-style refinements for jekyll-theme-minimal */
 :root {
+    --font-body: Georgia, "Times New Roman", serif;
+    --font-mono: Consolas, "Courier New", monospace;
+    --bg: #f9fbfd;
+    --surface: #ffffff;
+    --border: #d7dde5;
     --navy-accent: #1f3f66;
     --navy-accent-hover: #17304f;
     --text-primary: #1f2328;
+    --space-1: 0.4rem;
+    --space-2: 0.8rem;
+    --space-3: 1.2rem;
+    --space-4: 2rem;
+    --measure: 1020px;
 }
 
 body {
+    margin: 0;
     font-size: 18px;
     line-height: 1.65;
+    font-family: var(--font-body);
+    background: var(--bg);
     color: var(--text-primary);
 }
 
 .main-content {
-    max-width: 1020px;
-    margin: 0 auto;
-    padding: 0 0 2rem 0;
+    max-width: var(--measure);
+    margin: 0 auto var(--space-4) auto;
+    padding: 0 var(--space-3) 0 var(--space-3);
+    background: var(--surface);
+    box-sizing: border-box;
 }
 
 .page-header {
-    max-width: 1020px;
-    margin: 0 auto 1rem auto;
-    padding: 1rem 0;
+    max-width: var(--measure);
+    margin: 0 auto;
+    padding: var(--space-3) var(--space-3) var(--space-2) var(--space-3);
+    box-sizing: border-box;
 }
 
 .page-header .project-name {
@@ -34,9 +47,10 @@ body {
 }
 
 .page-header .project-tagline {
-    margin: 0.35rem 0 0 0;
-    font-size: 1.05rem;
+    margin: var(--space-1) 0 0 0;
+    font-size: 0.9rem;
     line-height: 1.35;
+    font-weight: normal;
 }
 
 h1,
@@ -68,12 +82,17 @@ h6 {
     font-size: 1.05rem;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 p,
 ul,
 ol,
 blockquote {
-    margin-top: 0.7em;
-    margin-bottom: 0.95em;
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-3);
 }
 
 a {
@@ -87,10 +106,67 @@ a:focus {
     text-decoration-color: rgba(23, 48, 79, 0.6);
 }
 
+blockquote {
+    border-left: 3px solid var(--border);
+    padding-left: 0.9rem;
+    color: #3b4450;
+}
+
+code,
+pre {
+    font-family: var(--font-mono);
+}
+
+pre {
+    overflow-x: auto;
+    padding: 0.75rem;
+    border: 1px solid var(--border);
+    background: #f6f8fb;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+th,
+td {
+    border: 1px solid var(--border);
+    padding: 0.45rem 0.6rem;
+    text-align: left;
+}
+
 .site-footer {
     position: static;
+    margin-top: var(--space-4);
+    padding-top: var(--space-2);
+    border-top: 1px solid var(--border);
+}
+
+.content-logo-left {
+    float: left;
+    margin: 0 var(--space-3) var(--space-2) 0;
+}
+
+.main-content::after {
+    content: "";
+    display: block;
     clear: both;
-    margin-top: 2rem;
-    padding-top: 0.9rem;
-    border-top: 1px solid #d7dde5;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 17px;
+    }
+
+    .page-header {
+        padding-top: 1rem;
+    }
+
+    .content-logo-left {
+        float: none;
+        display: block;
+        margin: 0 auto var(--space-3) auto;
+    }
 }

@@ -2,26 +2,24 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.header_title | default: site.title | default: site.github.repository_name }}</h1>
+    <header class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
       {% if site.description %}
       <h2 class="project-tagline">{{ site.description }}</h2>
       {% endif %}
-    </section>
+    </header>
 
-    <section class="main-content">
+    <main class="main-content">
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-owner">{{ site.footer_text | default: "Maintained by Seventh Fleet." }}</span>
+        <span class="site-footer-owner">&copy; 2025 Seventh Fleet of Second Life&reg;</span>
       </footer>
-    </section>
+    </main>
   </body>
 </html>

@@ -1,1 +1,10 @@
 AGENTS.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+Gemfile
+Gemfile.lock
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata

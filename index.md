@@ -1,14 +1,14 @@
-# Naval Education and Training Command
+---
+layout: default
+---
 
-<img src="{{ '/assets/images/netc350.png' | relative_url }}" style="float: right; margin: 0 0 1em 1em;" width="150">
+<img class="content-logo-left" src="{{ '/assets/images/netc350.png' | relative_url }}" width="200" alt="Naval Education and Training Command emblem">
 
 NETC is the authoritative source for the Seventh Fleet training framework. A text-only overview of this project is available in `quick-review.txt`.
 
 This is an evolving training framework for Seventh Fleet, a roleplay community in Second Life®. Details may change based on leadership guidance, member feedback, and operational needs. It is a practical model for incremental adoption and does not supersede existing Fleet policies or command decisions.
 
 The repository includes `CONTRIBUTING.md` (for human contributors) and `AGENTS.md` (for AI-assisted editing tools) to preserve intent, tone, and scope as this document evolves.
-
-<div style="clear: both;"></div>
 
 ## The Elevator Pitch
 
@@ -222,9 +222,9 @@ By moving book learning off-world and preserving in-world time for interaction a
 
 ---
 
-**Document Status:** Proposed
-**Author:** Captain Dave Gaffer
-**Current Version:** v0.1 (Initial Framework)
-**Last Updated:** 2026-02-13
+- **Document Status:** Proposed
+- **Author:** Captain Dave Gaffer
+- **Current Version:** v0.1 (Initial Framework)
+- **Last Updated:** 2026-02-13
 
 ![Status: Proposed](https://img.shields.io/badge/status-proposed-blue)
