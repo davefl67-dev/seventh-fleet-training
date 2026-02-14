@@ -10,10 +10,6 @@
     --text-primary: #1f2328;
 }
 
-.wrapper {
-    max-width: 1180px;
-}
-
 body {
     font-size: 18px;
     line-height: 1.65;
@@ -97,24 +93,4 @@ a:focus {
     margin-top: 2rem;
     padding-top: 0.9rem;
     border-top: 1px solid #d7dde5;
-}
-
-/* Fallback: if minimal theme default layout is used, remove sidebar entirely */
-.wrapper > header {
-    display: none;
-}
-
-.wrapper > section {
-    float: none;
-    width: 100%;
-    max-width: 1020px;
-    margin: 0 auto;
-}
-
-.wrapper > footer {
-    float: none;
-    width: auto;
-    max-width: 1020px;
-    margin: 2rem auto 0 auto;
-    clear: both;
 }
