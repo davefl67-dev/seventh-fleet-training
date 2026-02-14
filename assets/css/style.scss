@@ -20,9 +20,27 @@ body {
     color: var(--text-primary);
 }
 
-.main-content,
-section {
+.main-content {
     max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 0 2rem 0;
+}
+
+.page-header {
+    max-width: 1020px;
+    margin: 0 auto 1rem auto;
+    padding: 1rem 0;
+}
+
+.page-header .project-name {
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.page-header .project-tagline {
+    margin: 0.35rem 0 0 0;
+    font-size: 1.05rem;
+    line-height: 1.35;
 }
 
 h1,
@@ -73,18 +91,10 @@ a:focus {
     text-decoration-color: rgba(23, 48, 79, 0.6);
 }
 
-/* Convert jekyll-theme-minimal sidebar into a top header block */
-header {
-    float: none;
+.site-footer {
     position: static;
-    width: auto;
-    max-width: 1020px;
-    margin: 0 auto 1.5rem auto;
-    padding: 0;
-}
-
-section {
-    float: none;
-    width: auto;
-    margin: 0 auto;
+    clear: both;
+    margin-top: 2rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid #d7dde5;
 }
